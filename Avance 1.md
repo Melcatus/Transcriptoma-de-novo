@@ -1,8 +1,8 @@
-#Avance 1
-##Tipo  de análisis
+# Avance 1
+## Tipo  de análisis
 Ensable de transcriptoma de novo de Thalictrum hernandezii, Flores hermafroditas y  Thalictrum hernandezii, flores machos (Datos crudos)
 
-##Datos a utilzar
+## Datos a utilzar
 
 RNA-Seq data from Thalictrum hernandezii, Male flowers
 Accession: SRX3823746
